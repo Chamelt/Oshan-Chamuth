@@ -1,10 +1,16 @@
 # Oshan-Chamuth
-<h1 align="center">Hi 👋, I'm Oshan Chamuth Vithanage</h1>
-<h3 align="center">A passionate undergraduate at SLIIT who's planning to continue Data science major.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chamelt&label=Profile%20views&color=0e75b6&style=flat" alt="chamelt" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chamelt" alt="chamelt" /></a> </p>
+<table align="center">
+  <tr>
+    <td width="30%">
+      <img src="https://your-image-url.com/photo.jpg" width="200px" style="border-radius: 50%;" alt="Oshan Chamuth Vithanage"/>
+    </td>
+    <td width="70%">
+      <h1>Hi 👋, I'm Oshan Chamuth Vithanage</h1>
+      <h3>A passionate Data Science undergraduate at SLIIT</h3>
+      <p>I build automation tools and dive deep into data. Beyond coding, I'm a basketball player and music enthusiast.</p>
+    </td>
+  </tr>
+</table>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
