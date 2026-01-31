@@ -2,7 +2,7 @@
 <table align="center">
   <tr>
     <td width="30%">
-      <img src="https://your-image-url.com/photo.jpg" width="200px" style="border-radius: 50%;" alt="Oshan Chamuth Vithanage"/>
+      <img src="https://github.com/Chamelt/Oshan-Chamuth/blob/main/me.png?raw=true" alt="Oshan Chamuth Vithanage"/>
     </td>
     <td width="70%">
       <h1>Hi 👋, I'm Oshan Chamuth Vithanage</h1>
